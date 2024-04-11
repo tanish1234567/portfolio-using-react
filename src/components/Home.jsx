@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../public/pic.jpg";
+import image from "../../public/pic.jpeg";
 const Home = () => {
   return (
     <div className="flex my-32">
@@ -25,7 +25,7 @@ const Home = () => {
         <button className="p-4 bg-slate-400 hover:bg-slate-200 w-96 rounded-lg m-auto">
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1usbwfjF8tDlrEEAB_CXw_HsKkkOg2dnX/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1fqB2Ss9f34uxmwLs924ca7QmQ1mbuY_q/view?usp=sharing"
           >
             Download Resume
           </a>
